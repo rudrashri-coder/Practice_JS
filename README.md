@@ -1,3 +1,3 @@
 # Practice_JS
-This is simple Javascript code.
-Try in VScode editor.
+This is simple Javascript code,Try using VScode.
+
